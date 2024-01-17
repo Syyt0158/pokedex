@@ -1,6 +1,7 @@
 # Pokedex
+Here is the link to the pokedex: https://pokemondexx.netlify.app/
 ## Homepage
-In this project we had to use an alpine. We had to make a website that looks like a pokedex. For this project we used HTML, CSS, Javascript and Bootstrap. When you open this site you can see the homepage.
+In this project we had to use an alpine. We had to make a website that looks like a pokedex. For this project we used HTML, CSS, Javascript and Bootstrap. I've created this link with netlify. When you open this site you can see the homepage.
 Here you can see all the pokemons that we have taken out of the alpine. You can use the searchbar to find a specifik pokemon. You can type the name of the pokemon or the number and then you will see the pokemon your looking for!
 When you click on the pokemon, you'll see the stats of this pokemon. When you click on the button on the right side, it will show you the evolution of that pokemon. And with the button on the left you'll go back.
 
