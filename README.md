@@ -1,6 +1,7 @@
 # Pokedex App
 
 Welkom bij Pokedex! Deze website biedt informatie over verschillende Pokémon, verkregen via een externe API.
+Link naar de site: https://pokemondexx.netlify.app/
 ## Introductie
 
 Pokedex is ontworpen om gebruikers toegang te geven tot uitgebreide informatie over verschillende Pokémon. De gegevens worden opgehaald via een externe API, waardoor gebruikers gemakkelijk details kunnen verkennen, zoals typen, afbeeldingen en kenmerken van hun favoriete Pokémon.
@@ -27,6 +28,4 @@ Zodra je de website bezoekt, kun je door verschillende Pokémon bladeren, hun in
 
 Voel je vrij om bij te dragen aan de ontwikkeling van de Pokedex-website. Als je bugs vindt, functieverzoeken hebt of wilt bijdragen aan de documentatie, maak dan gerust een pull-aanvraag.
 
-## Licentie
 
-Dit project valt onder de [MIT-licentie](LICENSE.md) - zie het bestand [LICENSE.md](LICENSE.md) voor details.
