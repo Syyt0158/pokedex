@@ -1,19 +1,32 @@
-# Pokedex
-Here is the link to the pokedex: https://pokemondexx.netlify.app/
-## Homepage
-In this project we had to use an alpine. We had to make a website that looks like a pokedex. For this project we used HTML, CSS, Javascript and Bootstrap. I've created this link with netlify. When you open this site you can see the homepage.
-Here you can see all the pokemons that we have taken out of the alpine. You can use the searchbar to find a specifik pokemon. You can type the name of the pokemon or the number and then you will see the pokemon your looking for!
-When you click on the pokemon, you'll see the stats of this pokemon. When you click on the button on the right side, it will show you the evolution of that pokemon. And with the button on the left you'll go back.
+# Pokedex App
 
-## TV anime series
-When you go to the navbar and click on the TV anime series you'll see a page with slides. If you scroll down you will be able to see 3 cards. One shows the series that isn't available yet. The 2nd card shows another series, and when you click on the button below it will bring you to a trailer on Youtube.
-If you look at the 3th card you will see another series and when you click on more it will bring you to another page
+Welkom bij Pokedex! Deze website biedt informatie over verschillende Pokémon, verkregen via een externe API.
+## Introductie
 
-## The "more" page on the card
-When you click on more you will be in a page where you can find more info about this series. When you scroll down, you will be able to see pokemon characters from this series. When you click on them you'll be able to see more info about that character.
+Pokedex is ontworpen om gebruikers toegang te geven tot uitgebreide informatie over verschillende Pokémon. De gegevens worden opgehaald via een externe API, waardoor gebruikers gemakkelijk details kunnen verkennen, zoals typen, afbeeldingen en kenmerken van hun favoriete Pokémon.
 
-## Goods
-If you scroll back to the navbar, you can click on goods. You will be able to see a shopping page with all the products. You can click on the items and you'll get more info about the product and you'll be able to see the picture a bit better.
-If you want to buy this item you can go ahead and click on add to cart. Well because this was just a project you can't really buy this item, but it was a nice idea to make it like that
+## Kenmerken
 
-Well this was the site :)
+- Bekijk informatie over verschillende Pokémon.
+- Ontdek de kenmerken en typen van elke Pokémon.
+- Zie afbeeldingen van Pokémon om ze visueel te herkennen.
+- ...
+
+
+### Installatie
+
+1. Clone de repository: `git clone https://github.com/["gebruikersnaam"]/pokedex-app.git`
+2. Navigeer naar de projectmap: `cd pokedex`
+3. Open `index.html` en je bent ready to go
+
+## Gebruik
+
+Zodra je de website bezoekt, kun je door verschillende Pokémon bladeren, hun informatie bekijken en zelfs afbeeldingen zien. De website biedt een intuïtieve gebruikerservaring voor het verkennen van Pokémon-gegevens.
+
+## Bijdragen
+
+Voel je vrij om bij te dragen aan de ontwikkeling van de Pokedex-website. Als je bugs vindt, functieverzoeken hebt of wilt bijdragen aan de documentatie, maak dan gerust een pull-aanvraag.
+
+## Licentie
+
+Dit project valt onder de [MIT-licentie](LICENSE.md) - zie het bestand [LICENSE.md](LICENSE.md) voor details.
